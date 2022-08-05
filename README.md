@@ -7,10 +7,10 @@
 ### <div align="center">I'm Daniel, a full-time full-stack freelance developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on [Administrator dashboard](https://github.com/lumiaczek/Admin-Dashboard)  
+- 🔭 I’m currently working on [Svelte-based blog](https://github.com/lumiaczek/Blog)  
   
 
-- 🌱 I’m currently learning Svelte and TypeScript  
+- 🌱 I’m currently learning Figma and UI Design but also, enhancing my Svelte skill by doing blog project
   
 
 - ⚡ Fun fact: I fell in love with Svelte  
