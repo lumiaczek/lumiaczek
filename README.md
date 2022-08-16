@@ -7,7 +7,7 @@
 ### <div align="center">I'm Daniel, a full-time full-stack freelance developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on [Svelte-based blog](https://github.com/lumiaczek/Blog)  
+- 🔭 I’m currently working on SvelteKit and Tauri based app for Scouts - [RajdApp](https://github.com/lumiaczek/RajdApp)  
   
 
 - 🌱 I’m currently learning Figma and UI Design but also, enhancing my Svelte skill by doing blog project
